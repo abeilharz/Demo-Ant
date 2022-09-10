@@ -1,0 +1,6 @@
+[20220910-04:00:55] [CORE ] main: app started pid 2302(0x000008fe)
+[20220910-04:00:55] [INFO ] main: DISPLAY env var set to :10.0
+[20220910-04:00:55] [INFO ] main: using DISPLAY 10
+[20220910-04:00:55] [INFO ] channel_thread_loop: thread start
+[20220910-04:00:55] [INFO ] Socket 12: AF_UNIX connection received
+[20220910-04:10:49] [ERROR] clipboard_event_selection_request: unknown target text/plain;charset=utf-8
